@@ -1,0 +1,1 @@
+Rest API de un metodo get que recibe los parametos (numericos) y valida si corresponden a un triangulo, en caso de no serlo no los sube
