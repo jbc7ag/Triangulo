@@ -40,5 +40,13 @@ namespace Tringulo.Controllers
        
         }
 
+
+        public string Post(Triangulo oTriangulo) {
+
+
+            return oTriangulo.ToString();
+
+        }
+
     }
 }
